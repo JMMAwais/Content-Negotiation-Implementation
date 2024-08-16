@@ -1,0 +1,6 @@
+@Content_Negotiation_Implementation_HostAddress = http://localhost:5119
+
+GET {{Content_Negotiation_Implementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

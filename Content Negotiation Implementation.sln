@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Content Negotiation Implementation", "Content Negotiation Implementation\Content Negotiation Implementation.csproj", "{633340B5-DFB0-4602-BC4B-D0116A7D06CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633340B5-DFB0-4602-BC4B-D0116A7D06CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633340B5-DFB0-4602-BC4B-D0116A7D06CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633340B5-DFB0-4602-BC4B-D0116A7D06CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633340B5-DFB0-4602-BC4B-D0116A7D06CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD89A72F-8A7C-4D02-962B-B7F2AEF67DC3}
+	EndGlobalSection
+EndGlobal
